@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     marginLeft: 10,
   },
   sectionTitle: {
+    // backgroundColor: 'white',
     paddingTop: 20,
   },
   titleText: {

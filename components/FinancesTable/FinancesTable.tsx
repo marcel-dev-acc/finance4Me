@@ -61,7 +61,7 @@ const FinancesTable = ({
               >
                 <Text
                   style={styles.colText}
-                >{row[1]}</Text>
+                >{row[1].toFixed(2)}</Text>
               </View>
               <View
                 style={styles.col}
@@ -87,7 +87,7 @@ const FinancesTable = ({
         >
           <Text
             style={{...styles.colText, ...styles.tableHeadText}}
-          >{total}</Text>
+          >{total.toFixed(2)}</Text>
         </View>
       </View>
     </View>

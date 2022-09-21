@@ -2,7 +2,6 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   inputSection: {
-    backgroundColor: 'white',
     marginLeft: 20,
     marginRight: 20,
     marginTop: 30,
@@ -14,15 +13,9 @@ const styles = StyleSheet.create({
     marginVertical: 8,
     marginHorizontal: 16,
   },
-  title: {
-    fontSize: 20,
+  label: {
+    fontSize: 22,
     marginLeft: 10,
-    color: '#000000'
-  },
-  text: {
-    textAlign: 'center',
-    fontSize: 20,
-    marginTop: 20,
     color: '#000000'
   },
   input: {

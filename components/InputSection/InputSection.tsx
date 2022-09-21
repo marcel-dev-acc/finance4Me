@@ -18,7 +18,7 @@ const InputSection = ({
 
   return (
     <View style={styles.inputSection}>
-      <Text style={styles.title}>{title}:</Text>
+      <Text style={styles.label}>{title}:</Text>
       <TextInput
         style={styles.input}
         onChangeText={
