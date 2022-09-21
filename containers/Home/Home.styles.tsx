@@ -24,6 +24,13 @@ const styles = StyleSheet.create({
     fontSize: 30,
     color: 'black',
   },
+  buttonSection: {
+    maxWidth: 200,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginTop: 20,
+    marginBottom: 30,
+  }
 });
 
 export default styles;
