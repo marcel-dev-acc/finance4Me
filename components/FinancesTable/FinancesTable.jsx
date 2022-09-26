@@ -1,6 +1,5 @@
 import React, {type PropsWithChildren} from 'react';
 import { View, Text, Alert } from 'react-native';
-import Icon from 'react-native-vector-icons/FontAwesome';
 
 import styles from './FinancesTable.styles';
 
