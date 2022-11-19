@@ -10,6 +10,32 @@
 
 The below is specific for Windows 10. If any links are broken use them to influence what items to download (e.g. pick a newer version).
 
+## App designs
+
+The designs below give an indication of the pages the user will be able to interact with in the "finance4Me" application.
+
+1. Splash Screen & Login / Registration Screen
+
+<img src="readme-images/splash-screen.png" alt="splash screen" width="500" height="350">
+
+2. Introduction Screen
+
+<img src="readme-images/purpose-screen.png" alt="login screen" width="350" height="350">
+
+3. Dashboard Screen
+
+<img src="readme-images/dashboard.png" alt="dashboard screen" width="500" height="350">
+
+4. Add Account Screen
+
+<img src="readme-images/add-account.png" alt="add account screen" width="300" height="350">
+
+5. Edit & Delete Account Modal
+
+<img src="readme-images/crud-modal.png" alt="crud modal screen" width="500" height="350">
+
+## Development setup
+
 ### 1. Node.js
 
 You will need node.js to manage all packages for your react native application. You can get the latest stable version from the link here https://nodejs.org/en/
